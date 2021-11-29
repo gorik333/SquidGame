@@ -1,0 +1,5 @@
+Facebook, exoplayer-core.aar, exoplayer-dash.aar, recyclerview-v7.aar
+Fyber Inneractive, gson.jar
+InMobi, picasso.jar
+MoPub, support-anntations.jar
+Vungle, common.jar, converter-gson.jar, fetch.jar, gson.jar, okhttp.jar, okio.jar, retrofit.jar
