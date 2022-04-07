@@ -13,3 +13,6 @@ Basic mechanics:
   2. Moving platforms
   3. Setting the level, the chances of certain actions.
   4. The fall of men into the abyss.
+
+Gameplay video:
+https://youtu.be/7y-rqQddT4A
